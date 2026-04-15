@@ -9,23 +9,6 @@ import logo from '../assets/D7_logo.png';
 import heroBg from '../assets/H1.jpg';
 
 const HomePage: React.FC = () => {
-
-  const handleSmoothScroll = (
-    e: React.MouseEvent<HTMLAnchorElement>,
-    id: string
-  ) => {
-    e.preventDefault();
-    const element = document.getElementById(id);
-    if (element) {
-      const yOffset = -80;
-      const y =
-        element.getBoundingClientRect().top +
-        window.pageYOffset +
-        yOffset;
-      window.scrollTo({ top: y, behavior: 'smooth' });
-    }
-  };
-
   return (
     <div className="min-h-screen w-full overflow-x-hidden bg-[#0B1E3A]">
 

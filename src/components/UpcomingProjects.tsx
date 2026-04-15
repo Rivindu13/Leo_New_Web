@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import Project1 from "../assets/projects/upcomingProjects/p1.jpeg";
 import Project2 from "../assets/projects/upcomingProjects/p2.jpeg";
 import Project3 from "../assets/projects/upcomingProjects/p3.jpeg";
 

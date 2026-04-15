@@ -4,7 +4,6 @@ import Anecdote from "../assets/anecdote/anecdote.jpg";
 import AnecdoteBg from "../assets/anecdote/anecdoteBg.png";
 
 const NewsletterPage = () => {
-  const navigate = useNavigate();
 
   // Latest Newsletter
   const latestNewsletter = {

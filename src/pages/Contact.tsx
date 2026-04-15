@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Footer from '../components/Footer';
 import emailjs from 'emailjs-com';
-import { Link } from "react-router-dom";
 import { MapPin, Mail, Phone } from "lucide-react";
 
 const Contact: React.FC = () => {
@@ -229,7 +228,7 @@ const Contact: React.FC = () => {
             </h2>
           </div>
 
-          <iframe
+          <iframe title="location map"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.3152256557387!2d79.89882099678958!3d6.852767000000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25a8936886579%3A0xa8c769f4b86d85b5!2sUniversity%20of%20Sri%20Jayewardenepura!5e0!3m2!1sen!2slk!4v1774989129529!5m2!1sen!2slk"
             className="w-full h-[400px] border-0"
             allowFullScreen
