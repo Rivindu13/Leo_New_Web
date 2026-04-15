@@ -73,35 +73,35 @@ const Footer = () => {
             {/* Icons */}
             <div className="flex space-x-4">
               <a
-                href="https://facebook.com/"
+                href="https://www.facebook.com/share/1AfXgPY7Fd/"
                 className="p-3 rounded-full bg-white/10 hover:bg-blue-600/30 hover:scale-110 transition hover:shadow-[0_0_15px_rgba(255,255,255,0.2)]"
               >
               <FaFacebookF />
               </a>
 
               <a
-                href="https://instagram.com/"
+                href="https://www.instagram.com/jpurad7leos?utm_source=qr&igsh=MWRwbXZ6bjNseWI3ZA=="
                 className="p-3 rounded-full bg-white/10 hover:bg-pink-500/30 hover:scale-110 transition hover:shadow-[0_0_15px_rgba(255,255,255,0.2)]"
               >
                 <FaInstagram />
               </a>
 
               <a
-                href="https://x.com/"
+                href="https://x.com/JPuraD7Leos"
                 className="p-3 rounded-full bg-white/10 hover:bg-white/20 hover:scale-110 transition hover:shadow-[0_0_15px_rgba(255,255,255,0.2)]"
               >
                 <FaXTwitter />
               </a>
 
               <a
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/company/leo-club-of-district-306-d7-university-of-sri-jayewardenepura"
                 className="p-3 rounded-full bg-white/10 hover:bg-blue-500/30 hover:scale-110 transition hover:shadow-[0_0_15px_rgba(255,255,255,0.2)]"
               >
                 <FaLinkedinIn />
               </a>
 
               <a
-                href="https://tiktok.com/"
+                href="https://www.tiktok.com/@jpurad7leos?_r=1&_t=ZS-95MN0HRyNIg"
                 className="p-3 rounded-full bg-white/10 hover:bg-white/20 hover:scale-110 transition hover:shadow-[0_0_15px_rgba(255,255,255,0.2)]"
               >
                 <FaTiktok />

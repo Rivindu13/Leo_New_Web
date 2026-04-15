@@ -23,16 +23,16 @@ const projects: Project[] = [
   },
   {
     id: 2,
-    title: 'Blood Donation Camp',
-    category: 'Health',
-    description: 'Organizing blood donation drives to support hospitals and save lives.',
+    title: 'Future Xperience',
+    category: 'Panel Discussion',
+    description: 'Registrations are NOW OPEN for Future Xperience – Panel Discussion. Join us and be part of an inspiring evening designed to prepare the next generation of professionals.',
     image: project2
   },
   {
     id: 3,
-    title: 'Diwi Abhilasha',
-    category: 'Economic Empowerment',
-    description: 'ආර්ථිකයෙන් ශක්තිමත් දිවියකට අත්තිවාරමක් සොයන ඔවුන්ට. ස්ථානය: මාතලේ, පල්ලෙපොළ, ඇහැලේපොළ ගමේ විහාරස්ථානය. ඔවුන්ගේ ජීවිතයට ආලෝකයක් ලබාදෙන්න ජපුර ලියෝ අපි සූදානම්..',
+    title: 'INKSPIRE',
+    category: 'ART & PHOTOGRAPHY COMPETITION',
+    description: 'Support your favorite! Share the channel link with your friends and ask them to join & like! More likes = Higher chance to win! Voting Deadline - 20th April',
     image: project3
   }
 ];

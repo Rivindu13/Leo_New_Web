@@ -91,7 +91,7 @@ const Navbar = () => {
             {/* Join Button */}
             <div className="ml-12">
               <a
-                href="https://forms.gle/YOUR_GOOGLE_FORM_LINK"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScHmWSOscOY5fbo_m6smjH7gd4PLV329t8m56HO16-r-A8tRw/viewform?usp=dialog"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-6 py-2 
@@ -142,7 +142,7 @@ const Navbar = () => {
             ))}
 
             <a
-              href="https://forms.gle/YOUR_GOOGLE_FORM_LINK"
+              href="https://docs.google.com/forms/d/e/1FAIpQLScHmWSOscOY5fbo_m6smjH7gd4PLV329t8m56HO16-r-A8tRw/viewform?usp=dialog"
               target="_blank"
               rel="noopener noreferrer"
               className="block text-center bg-gradient-to-r from-blue-500 to-indigo-500 

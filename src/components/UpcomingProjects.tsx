@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Project1 from "../assets/projects/upcomingProjects/p1.jpeg";
 import Project2 from "../assets/projects/upcomingProjects/p2.jpeg";
-import Project3 from "../assets/projects/upcomingProjects/p2.jpeg";
+import Project3 from "../assets/projects/upcomingProjects/p3.jpeg";
 
 interface Card {
   image: string;
@@ -16,6 +16,7 @@ const UpcomingProjects = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const cards: Card[] = [
+    /* Add data for upcoming projects
     {
       image: `${Project1}`,
       title: "Aluth Panthiya",
@@ -24,19 +25,20 @@ const UpcomingProjects = () => {
       category: "Educational",
       status: "Upcoming"
     },
+    */
     {
       image: `${Project2}`,
-      title: "Youth Leadership Workshop",
-      date: "May 2026",
-      description: "The Japura D7 Leos proudly joined hands in Leo Tree Plantation Challenge Season 6 – Phase 1, a remarkable initiative committed to environmental protection and sustainability. As passionate youth leaders, we understood the importance of acting now to ensure a better tomorrow. Through this project, we stepped forward to make a meaningful difference by engaging in responsible and purposeful tree planting.",
-      category: "Leadership",
+      title: "Future Xperience",
+      date: "April 2026",
+      description: "Registrations are NOW OPEN for Future Xperience – Panel Discussion. Join us and be part of an inspiring evening designed to prepare the next generation of professionals.",
+      category: "Panel Discussion",
       status: "Upcoming"
     },
     {
       image: `${Project3}`,
-      title: "Charity Fundraising Event",
-      date: "June 2026",
-      description: "The Japura D7 Leos proudly joined hands in Leo Tree Plantation Challenge Season 6 – Phase 1, a remarkable initiative committed to environmental protection and sustainability. As passionate youth leaders, we understood the importance of acting now to ensure a better tomorrow. Through this project, we stepped forward to make a meaningful difference by engaging in responsible and purposeful tree planting.",
+      title: "අවුරුදු with Little Legends",
+      date: "April 2026",
+      description: "Bringing the joy of අවුරුදු  to the brave little heroes at Apeksha Hospital. 'අවුරුදු with Little Legends' is all about sharing smiles, hope, and love with hearts that inspire us every day.",
       category: "Social Service",
       status: "Upcoming"
     }
