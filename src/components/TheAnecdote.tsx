@@ -1,5 +1,3 @@
-import React from "react";
-import { useNavigate } from "react-router-dom";
 import Anecdote from "../assets/anecdote/anecdote.jpg";
 import AnecdoteBg from "../assets/anecdote/anecdoteBg.png";
 
