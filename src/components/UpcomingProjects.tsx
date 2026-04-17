@@ -29,7 +29,7 @@ const UpcomingProjects = () => {
       image: `${Project2}`,
       title: "Future Xperience",
       date: "April 2026",
-      description: "Registrations are NOW OPEN for Future Xperience – Panel Discussion. Join us and be part of an inspiring evening designed to prepare the next generation of professionals.",
+      description: "Registrations are NOW OPEN for Future Xperience – Panel Discussion.",
       category: "Panel Discussion",
       status: "Upcoming"
     },
@@ -37,7 +37,7 @@ const UpcomingProjects = () => {
       image: `${Project3}`,
       title: "අවුරුදු with Little Legends",
       date: "April 2026",
-      description: "Bringing the joy of අවුරුදු  to the brave little heroes at Apeksha Hospital. 'අවුරුදු with Little Legends' is all about sharing smiles, hope, and love with hearts that inspire us every day.",
+      description: "Bringing the joy of අවුරුදු  to the brave little heroes at Apeksha Hospital.",
       category: "Social Service",
       status: "Upcoming"
     }

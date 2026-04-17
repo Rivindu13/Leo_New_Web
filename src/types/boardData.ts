@@ -92,7 +92,7 @@ export const boardMembers: BoardMember[] = [
   {
     id: 12,
     name: "Prof. Lion Vishaka Sooriyabandara",
-    position: "Club Advisor",
+    position: "Staff Advisor",
     image: "/board/advisors/advisor2.jpg",
     category: "Club Advisors",
   },

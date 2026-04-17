@@ -124,7 +124,7 @@ const AboutUsSection: React.FC = () => {
                   <div className="grid grid-cols-2 gap-4 mt-8">
                     <div className="bg-white/10 rounded-lg p-4">
                       <div className="text-xl font-bold text-blue-400">
-                        40+
+                        60+
                       </div>
                       <div className="text-white/80">Projects Done</div>
                     </div>

@@ -17,7 +17,6 @@ export const projects = [
     date: "July 25, 2025",
     description: "We organized a vibrant Mehendi stall as part of our fundraising efforts. With the collective support of our energetic members and dedicated project coordinators, the stall was both beautifully presented and smoothly managed.",
     status: "Completed",
-    impact: "5+ volunteers",
     images: [
       "/projects/2 Mehendi & Ice Cream Stall/1.jpg",
       "/projects/2 Mehendi & Ice Cream Stall/2.jpg",
@@ -105,7 +104,6 @@ export const projects = [
     date: "Oct 03, 2025",
     description: "Art for Peace Bringing color, calm, and creativity to young minds! Where little hearts find peace, tiny hands bloom with imagination, and every brushstroke brings a smile.",
     status: "Completed",
-    impact: "20+ children impacted",
     images: [
       "/projects/9 Rainbow Bloosoms - Phase 01/1.jpg",
       "/projects/9 Rainbow Bloosoms - Phase 01/2.jpg",
@@ -130,7 +128,6 @@ export const projects = [
     date: "Oct 17, 2025",
     description: "A step towards a cleaner, healthier, and more sustainable planet. Together, we plant the seeds of change today for a brighter, greener future.",
     status: "Completed",
-    impact: "20+ children impacted",
     images: [
       "/projects/10 Greener Tomorrow/1.jpg",
       "/projects/10 Greener Tomorrow/2.jpg",
@@ -143,7 +140,6 @@ export const projects = [
     date: "Oct 19, 2025",
     description: "Bringing color, calm, and creativity to young minds! Where little hearts find peace, tiny hands bloom with imagination, and every brushstroke brings a smile.",
     status: "Completed",
-    impact: "10+ children impacted",
     images: [
       "/projects/12 Rainbow Bloosoms - Phase 02/1.jpg",
       "/projects/12 Rainbow Bloosoms - Phase 02/2.jpg",
@@ -156,7 +152,7 @@ export const projects = [
     date: "Nov 24, 2025",
     description: "We lifted young minds, sparked confidence, and helped dreams take flight. A heartfelt thank you to everyone who made this milestone possible!",
     status: "Completed",
-    impact: "5+ volunteers",
+    impact: "20+ volunteers",
     images: [
       "/projects/13 Guiding Wings - Phase 01/1.jpg",
       "/projects/13 Guiding Wings - Phase 01/2.jpeg",
@@ -169,7 +165,6 @@ export const projects = [
     date: "Dec 13, 2025",
     description: "Bringing color, calm, and creativity to young minds! Where little hearts find peace, tiny hands bloom with imagination, and every brushstroke brings a smile.",
     status: "Completed",
-    impact: "10+ volunteers",
     images: [
       "/projects/14 Rainbow Bloosoms - Phase 03/1.jpg",
       "/projects/14 Rainbow Bloosoms - Phase 03/2.jpg",
@@ -219,7 +214,6 @@ export const projects = [
     date: "Feb 01, 2026",
     description: "Something meaningful comes together, one stitch at a time. Hands will learn, create, and grow stronger, because every crochet tells a story. ",
     status: "Completed",
-    impact: "20+ elders impacted",
     images: [
       "/projects/21 Thread to Hope/1.jpg",
       "/projects/21 Thread to Hope/2.jpg",
@@ -232,7 +226,7 @@ export const projects = [
     date: "Feb 07, 2026",
     description: "Every child here is a Little Legend-fighting battles with courage, hope, and a beautiful smile. We stand with you, today and always",
     status: "Completed",
-    impact: "15+ children impacted",
+    impact: "20+ children impacted",
     images: [
       "/projects/18 Little Legends/1.jpg",
       "/projects/18 Little Legends/2.jpg",
@@ -245,7 +239,7 @@ export const projects = [
     date: "Feb 16, 2026",
     description: "From awareness to action, Project U-Turn became a meaningful step toward building a safer, drug-free future.",
     status: "Completed",
-    impact: "30+ awareness created",
+    impact: "150+ awareness created",
     images: [
       "/projects/19 U Turn - Phase 01/1.jpg",
       "/projects/19 U Turn - Phase 01/2.jpeg",
@@ -258,7 +252,6 @@ export const projects = [
     date: "Feb 28, 2026",
     description: "A small spark can light up more than a room - it can light up a life. Every glow carries confidence, creativity, and courage.",
     status: "Completed",
-    impact: "10+ special children impacted",
     images: [
       "/projects/20 Bright Hands/1.jpg",
       "/projects/20 Bright Hands/2.jpg",
@@ -296,7 +289,7 @@ export const projects = [
     date: "March 05, 2026",
     description: "An evening of constellations, curiosity, and cosmic wonder awaits! Join us for a magical night under the stars, where we’ll explore the universe together and let our imaginations soar.",
     status: "Completed",
-    impact: "20+ children engaged",
+    impact: "100+ children engaged",
     images: [
       "/projects/23 Echoes of Light/1.jpg",
       "/projects/23 Echoes of Light/2.jpeg",
@@ -322,7 +315,7 @@ export const projects = [
     date: "March 10, 2026",
     description: "Project AAYU - Japura Good Market was successfully carried out with the aim of promoting proper nutrition and better lifestyles.",
     status: "Completed",
-    impact: "5+ stalls and 50+ visitors",
+    impact: "5+ stalls and 150+ visitors",
     images: [
       "/projects/26 AAYU/1.jpg",
       "/projects/26 AAYU/2.png",
@@ -335,7 +328,7 @@ export const projects = [
     date: "March 13, 2026",
     description: "Let’s come together to celebrate the vibrant spirit of Holi, where every splash of color spreads happiness, friendship, and unity! Successfully concluded at University of Sri Jayewardenepura.",
     status: "Completed",
-    impact: "40+ participants",
+    impact: "250+ participants",
     images: [
       "/projects/27 Holi Festival/1.jpg",
       "/projects/27 Holi Festival/2.jpg",
@@ -360,7 +353,6 @@ export const projects = [
     date: "March 19, 2026",
     description: "Get ready to step Beyond The Barriers and unlock new possibilities. Successfully concluded at Sucharithodaya Social Services Center, Maharagama. We come together to serve, uplift, and make a meaningful impact in the community.",
     status: "Completed",
-    impact: "10+ beneficiaries impacted",
     images: [
       "/projects/29 Beyond Barriers/1.jpg",
       "/projects/29 Beyond Barriers/2.jpg",
@@ -385,7 +377,6 @@ export const projects = [
     date: "March 21, 2026",
     description: "අප වෙනුවෙන් අපරිමිත කැපකිරීම් කළ ඔවුන්ට ආදරයෙන් හා ගෞරවයෙන් පිරුණු හදවතින් ‘රැකවරණ’ ව්‍යාපෘතිය සාර්ථකව නිමාවට පත් විය.",
     status: "Completed",
-    impact: "15+ elders impacted",
     images: [
       "/projects/31 Rakawarana/1.jpg",
       "/projects/31 Rakawarana/2.jpeg",
@@ -398,7 +389,6 @@ export const projects = [
     date: "March 26, 2026",
     description: "Building a healthier tomorrow starts with the smallest hands! Join us as fruits become fun and every bite helps little ones grow.",
     status: "Completed",
-    impact: "20+ children impacted",
     images: [
       "/projects/32 Tummy Kins/1.jpg",
       "/projects/32 Tummy Kins/2.jpeg",
@@ -423,7 +413,7 @@ export const projects = [
     date: "March 28, 2026",
     description: "One wrong turn… everything changes. This isn’t just a story — it’s a reality happening around us. Be the reason someone takes a U-Turn before it’s too late.",
     status: "Completed",
-    impact: "30+ awareness created",
+    impact: "150+ awareness created",
     images: [
       "/projects/34 U Turn - Phase 02/1.jpg",
       "/projects/34 U Turn - Phase 02/2.jpeg",
