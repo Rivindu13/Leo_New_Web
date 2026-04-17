@@ -73,7 +73,8 @@ const UpcomingProjects = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-yellow-400 to-yellow-600 mx-auto rounded-full mt-4"></div>
 
-          <p className="text-white/70 w-[600px] mx-auto mt-4 mb-12">
+          <p className="text-white/70 max-w-sm sm:max-w-lg mx-auto mt-3 mb-6 px-3 
+          text-center text-sm sm:text-base leading-relaxed tracking-wide text-balance">
             Discover the impactful projects we are planning to bring positive change to our community.
           </p>
         </div>

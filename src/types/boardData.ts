@@ -210,21 +210,21 @@ export const boardMembers: BoardMember[] = [
     id: 25,
     name: "Leo Lithila Thenura",
     position: "Director",
-    image: "/board/club/Director1C.jpeg",
+    image: "/board/club/Director1C.JPEG",
     category: "Club Services Crew",
   },
   {
     id: 26,
     name: "Leo Navodya Wijesekara",
     position: "Director",
-    image: "/board/club/Director2C.jpeg",
+    image: "/board/club/Director2C.JPEG",
     category: "Club Services Crew",
   },
   {
     id: 27,
     name: "Leo Rashodha Liyanarachchi",
     position: "Assistant Director",
-    image: "/board/club/Assistant Director1C.jpeg",
+    image: "/board/club/Assistant-Director1C.JPEG",
     category: "Club Services Crew",
   },
 
@@ -348,7 +348,7 @@ export const boardMembers: BoardMember[] = [
     id: 46, 
     name: "Leo Kavindu Pansilu",
     position: "Project Coordinator",
-    image: "/board/pc/pc11.jpg",
+    image: "/board/pc/pc11.JPG",
     category: "Project Cordinators",
   },
   {

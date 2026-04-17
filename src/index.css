@@ -103,3 +103,7 @@ code {
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(180deg, #2563eb, #0891b2);
 }
+
+.text-balance {
+  text-wrap: balance;
+}
