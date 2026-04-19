@@ -208,14 +208,14 @@ export const boardMembers: BoardMember[] = [
    // 🟢 Club Services  CREW
   {
     id: 25,
-    name: "Leo Lithila Thenura",
+    name: "Leo Navodya Wijesekara",
     position: "Director",
     image: "/board/club/Director1C.JPEG",
     category: "Club Services Crew",
   },
   {
     id: 26,
-    name: "Leo Navodya Wijesekara",
+    name: "Leo Lithila Thenura",
     position: "Director",
     image: "/board/club/Director2C.JPEG",
     category: "Club Services Crew",
