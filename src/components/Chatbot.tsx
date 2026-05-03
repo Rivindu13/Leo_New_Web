@@ -92,10 +92,9 @@ const handleSend = async () => {
     appendMessage(data.reply, "bot");
 
   } catch (err: any) {
-    console.error("Chat Error:", err);
-    const errorMsg = err.message || "Error connecting to server.";
-    appendMessage("Sorry, I'm having trouble connecting right now. Try again later.", "bot");
-  }
+  console.error("Chat Error:", err);
+  appendMessage("Sorry, I'm having trouble connecting right now. Try again later.", "bot");
+}
 
   setInput("");
 };
