@@ -70,7 +70,7 @@ const handleSend = async () => {
 
   // 🤖 2. Otherwise call AI
   try {
-    const res = await fetch("http://localhost:5000/api/chat", {
+    const res = await fetch("https://leo-new-web.onrender.com/api/chat", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -94,7 +94,7 @@ const handleSend = async () => {
   } catch (err: any) {
     console.error("Chat Error:", err);
     const errorMsg = err.message || "Error connecting to server.";
-    appendMessage(`❌ ${errorMsg}`, "bot");
+    appendMessage("Sorry, I'm having trouble connecting right now. Try again later.", "bot");
   }
 
   setInput("");
