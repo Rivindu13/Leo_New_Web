@@ -7,6 +7,7 @@ import Board from './pages/Board';
 import Contact from './pages/Contact';
 import Navbar from './components/Navbar';
 import ScrollToTop from './components/ScrollToTop';
+import Chatbot from "./components/Chatbot";
 
 function App() {
   return (
@@ -22,6 +23,8 @@ function App() {
         <Route path="/board" element={<Board />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
+
+      <Chatbot />
     </Router>
   );
 }
