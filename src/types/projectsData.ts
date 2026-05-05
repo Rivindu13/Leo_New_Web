@@ -506,7 +506,7 @@ export const projects = [
     id: 42,
     title: "Inkspire",
     date: "April 29, 2026",
-    description: "අපරාධ, හදිසි අනතුරු හා ආපදා පිළිබඳ දැනුවත් කිරීමේ වැඩසටහනට ඔබත් එක්වන්න! සුරක්ෂිත සමාජයක් සඳහා ඔබේ සහයෝගය ලබාදෙන්න.",
+    description: "INKSPIRE – ART & PHOTOGRAPHY COMPETITION!",
     status: "Completed",
     images: [
       "/projects/42 Inkspire/1.jpg",
