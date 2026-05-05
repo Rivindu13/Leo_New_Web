@@ -1,12 +1,12 @@
-import Anecdote from "../assets/anecdote/anecdote.jpg";
+import Anecdote from "../assets/anecdote/anecdote.jpeg";
 import AnecdoteBg from "../assets/anecdote/anecdoteBg.png";
 
 const NewsletterPage = () => {
 
   // Latest Newsletter
   const latestNewsletter = {
-    title: "March 2026 Newsletter",
-    month: "March 2026",
+    title: "April 2026 Newsletter",
+    month: "April 2026",
     image: Anecdote,
   };
 
@@ -65,7 +65,7 @@ const NewsletterPage = () => {
 
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-6">
                 <div className="px-4 py-2 bg-white/5 border border-white/10 rounded-lg text-sm">
-                📄 30+ Pages
+                📄 40+ Pages
                 </div>
                 <div className="px-4 py-2 bg-white/5 border border-white/10 rounded-lg text-sm">
                 📰 10+ Articles
@@ -76,7 +76,7 @@ const NewsletterPage = () => {
             </div>
 
             <a
-            href="https://heyzine.com/flip-book/2a96b819a1.html"
+            href="https://heyzine.com/flip-book/f29e71c624.html"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 rounded-full font-bold 

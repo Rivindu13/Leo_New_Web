@@ -122,6 +122,17 @@ const Contact: React.FC = () => {
 
           {/* ✅ BUTTON aligned bottom */}
           <a
+            href="https://drive.google.com/file/d/1S7fqY8SsUw7dhmwt4sdTeC7RrQ2X7oPE/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-4 w-full py-3 text-center block rounded-full font-bold 
+            text-black no-underline
+            bg-gradient-to-r from-yellow-200 to-yellow-400 
+            hover:scale-105 transition duration-300 shadow-lg"
+          >
+            Download Our Mobile App
+          </a>
+          <a
             href="https://whatsapp.com/channel/0029VbBl2LbBA1f0ErBjKg1T"
             target="_blank"
             rel="noopener noreferrer"

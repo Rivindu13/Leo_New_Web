@@ -428,20 +428,102 @@ export const projects = [
     status: "Completed",
     images: [
       "/projects/35 Healing Hues/1.jpg",
-      "/projects/35 Healing Hues/2.jpeg",
-      "/projects/35 Healing Hues/3.jpeg"
+      "/projects/35 Healing Hues/2.jpg"
     ]
   },
   {
     id: 36,
+    title: "Aluth Panthiya",
+    date: "April 1, 2026",
+    description: "අතහැර දමා තිබූ පංති කාමරය, නව ජීවයකින් පිරිපුන් කරමින්, අලුත් පංතියක් බවට පත් කිරීමට වූ වෑයම මෙසේ සාර්ථකව නිමාවට පත් විය.",
+    status: "Completed",
+    images: [
+      "/projects/37 Aluth Panthiya/1.jpg",
+      "/projects/37 Aluth Panthiya/2.jpeg",
+      "/projects/37 Aluth Panthiya/3.jpeg"
+    ]
+  },
+  {
+    id: 37,
     title: "Prarthana",
-    date: "Ongoing",
+    date: "April 4, 2026",
     description: "මහරගම අපේක්ෂා රෝහලේ මල් කැකුළු වෙනුවෙන් සිනාවත්, සතුටත් ගෙන යන්න ජ'පුර ලියෝ අපි සූදානම්. ඔවුන් වෙනුවෙන් ඔබේ ප්‍රාර්ථනාව අවශ්‍ය මොහොතයි මේ...",
-    status: "Ongoing",
+    status: "Completed",
     images: [
       "/projects/36 Prarthana/1.jpg",
-      "/projects/36 Prarthana/2.jpeg",
-      "/projects/36 Prarthana/3.jpeg"
+      "/projects/36 Prarthana/2.jpg",
+      "/projects/36 Prarthana/3.jpg"
+    ]
+  },
+  {
+    id: 38,
+    title: "Future Xperience",
+    date: "April 9, 2026",
+    description: "Future Xperience – Panel Discussion! Successfully completed... An inspiring and insightful session with leading industry experts, sharing their journeys and perspectives.",
+    status: "Completed",
+    images: [
+      "/projects/38 Future Xperience/1.jpg",
+      "/projects/38 Future Xperience/2.jpeg",
+      "/projects/38 Future Xperience/3.jpeg"
+    ]
+  },
+  {
+    id: 41,
+    title: "Salakillen Surakemu",
+    date: "April 24, 2026",
+    description: "අපරාධ, හදිසි අනතුරු හා ආපදා පිළිබඳ දැනුවත් කිරීමේ වැඩසටහනට ඔබත් එක්වන්න! සුරක්ෂිත සමාජයක් සඳහා ඔබේ සහයෝගය ලබාදෙන්න.",
+    status: "Completed",
+    images: [
+      "/projects/41 Salakillen Surakemu/1.jpg",
+      "/projects/41 Salakillen Surakemu/2.jpeg",
+      "/projects/41 Salakillen Surakemu/3.jpeg"
+    ]
+  },
+  {
+    id: 39,
+    title: "E School",
+    date: "April 28, 2026",
+    description: "Empowering young minds through technology, innovation, and knowledge sharing. Successfully concluded at Delthara Maha Vidyalaya, Piliyandalaya. Together, we’re building a brighter future for education.",
+    status: "Completed",
+    images: [
+      "/projects/39 E School/1.jpg",
+      "/projects/39 E School/2.jpg"
+    ]
+  },
+  {
+    id: 40,
+    title: "Nethra",
+    date: "April 29, 2026",
+    description: "ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයීය දිස්ත්‍රික් 306 D7 ලියෝ අප විසින් සංවිධානය කරන ලද 'නේත්‍රා’ ව්‍යාපෘතිය ගම්පහ පීටර් වීරසේකර ළමා නිවාසයේ දී පැවත්විය.",
+    status: "Completed",
+    images: [
+      "/projects/40 Nethra/1.png",
+      "/projects/40 Nethra/2.jpeg",
+      "/projects/40 Nethra/3.jpeg"
+    ]
+  },
+  {
+    id: 42,
+    title: "Inkspire",
+    date: "April 29, 2026",
+    description: "අපරාධ, හදිසි අනතුරු හා ආපදා පිළිබඳ දැනුවත් කිරීමේ වැඩසටහනට ඔබත් එක්වන්න! සුරක්ෂිත සමාජයක් සඳහා ඔබේ සහයෝගය ලබාදෙන්න.",
+    status: "Completed",
+    images: [
+      "/projects/42 Inkspire/1.jpg",
+      "/projects/42 Inkspire/2.jpg",
+      "/projects/42 Inkspire/3.jpg"
+    ]
+  },
+  {
+    id: 43,
+    title: "Thirst to Thrive",
+    date: "April 30, 2026",
+    description: "'This is where change begins, quietly & meaningfully' a reminder that every early step holds the power to create lasting impact.",
+    status: "Completed",
+    images: [
+      "/projects/43 Thirst to Thrive/1.jpg",
+      "/projects/43 Thirst to Thrive/2.jpg",
+      "/projects/43 Thirst to Thrive/3.jpg"
     ]
   },
   {
@@ -449,7 +531,7 @@ export const projects = [
     title: "Kadaimen Eha",
     date: "Continuous",
     description: "මනුෂ්‍යත්වයේ හඩ සුසර කරන්නට ශ්‍රී ජයවර්ධනපුර විශ්ව විද්‍යාලයීය දිස්ත්‍රික් 306 D7 ලියෝ සමාජයේ අප විසින් රත්මලාන බිහිරි විද්‍යාලයේ අපේම සොහොයුරු සොහොයුරියන් වෙනුවෙන් සිදු කරන 'කඩ ඉමෙන් එහා' ව්‍යාපෘතිය රත්මලාන බිහිරි විද්‍යාලයේ දී පැවැත්වේ. ",
-    status: "Ongoing",
+    status: "completed",
     impact: "20+ children impacted",
     images: [
       "/projects/100 Kadaimen Eha/1.jpg",
