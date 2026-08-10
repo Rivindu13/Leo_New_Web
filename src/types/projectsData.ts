@@ -527,16 +527,40 @@ export const projects = [
     ]
   },
   {
+    id: 44,
+    title: "Senehase Athwala",
+    date: "July 17, 2026",
+    description: "'Senehase Athwala was conducted at the Geriatric and Palliative Care Unit of Colombo South Teaching Hospital, Kalubowila, to promote the mental, cognitive, physical, and social wellbeing of senior citizens.",
+    status: "Completed",
+    images: [
+      "/projects/44 Senehase Athwala/1.jpeg",
+      "/projects/44 Senehase Athwala/2.jpeg",
+      "/projects/44 Senehase Athwala/3.jpeg"
+    ]
+  },
+    {
+    id: 45,
+    title: "Ashirwada",
+    date: "July 04, 2026",
+    description: "'The Leo Club of the University of Sri Jayewardenepura commenced the new Leoistic year with Ashirwada, a blessing programme held at the Bellanwila Rajamaha Viharaya on 04th July 2026.",
+    status: "Completed",
+    images: [
+      "/projects/45 Ashirwada/1.jpeg",
+      "/projects/45 Ashirwada/2.jpeg",
+      "/projects/45 Ashirwada/3.jpeg"
+    ]
+  },
+  {
     id: 100,
     title: "Kadaimen Eha",
     date: "Continuous",
     description: "මනුෂ්‍යත්වයේ හඩ සුසර කරන්නට ශ්‍රී ජයවර්ධනපුර විශ්ව විද්‍යාලයීය දිස්ත්‍රික් 306 D7 ලියෝ සමාජයේ අප විසින් රත්මලාන බිහිරි විද්‍යාලයේ අපේම සොහොයුරු සොහොයුරියන් වෙනුවෙන් සිදු කරන 'කඩ ඉමෙන් එහා' ව්‍යාපෘතිය රත්මලාන බිහිරි විද්‍යාලයේ දී පැවැත්වේ. ",
-    status: "completed",
+    status: "ongoing",
     impact: "20+ children impacted",
     images: [
-      "/projects/100 Kadaimen Eha/1.jpg",
-      "/projects/100 Kadaimen Eha/2.jpg",
-      "/projects/100 Kadaimen Eha/3.jpg"
+      "/projects/100 Kadaimen Eha/1.jpeg",
+      "/projects/100 Kadaimen Eha/2.jpeg",
+      "/projects/100 Kadaimen Eha/3.jpeg"
     ]
   },
   // add more projects here...

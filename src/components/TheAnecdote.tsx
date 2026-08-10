@@ -5,8 +5,8 @@ const NewsletterPage = () => {
 
   // Latest Newsletter
   const latestNewsletter = {
-    title: "April 2026 Newsletter",
-    month: "April 2026",
+    title: "July 2026 Newsletter",
+    month: "July 2026",
     image: Anecdote,
   };
 
@@ -76,7 +76,7 @@ const NewsletterPage = () => {
             </div>
 
             <a
-            href="https://heyzine.com/flip-book/f29e71c624.html"
+            href="https://heyzine.com/flip-book/76f1be28c8.html"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 rounded-full font-bold 
